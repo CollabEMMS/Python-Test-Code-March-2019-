@@ -1,0 +1,17 @@
+File Name,spacepants,,,,
+Date,2018-10-16,,,,
+Test Info,"this is the innagural test of our system on a lab computer.  And I named the file spacepants.  Why spacepants?  That's a good question, probably to make my future self cringe or something lol XD\",,,,
+Directory,C:\Users\nf1192\Desktop\test\spacepants.csv,,,,
+,,,,,
+System TIMESTAMP,TIMESTAMP,EKMPOWER,EMMS POWER,EKM Energy Used,EMMS Energy Used
+10.5,10,940,3000,0,0
+21.0,21,942,3000,0,0
+31.5,31,942,3000,0,0
+42.0,82,942,3000,0,0
+52.5,92,942,3000,0,0
+63.0,103,942,3000,0,0
+73.5,113,940,3000,0,0
+84.0,124,942,3000,1,0
+94.4,134,942,3000,1,0
+105.0,185,940,3000,1,0
+115.5,195,942,3000,1,0

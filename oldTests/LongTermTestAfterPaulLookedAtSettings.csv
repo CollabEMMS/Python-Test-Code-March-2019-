@@ -1,0 +1,23 @@
+File Name,LongTermTestAfterPaulLookedAtSettings,,,
+Date,2018-11-13,,,
+Time,11:15:51,,,
+Test Info,User had no comments,,,
+Directory,C:\emms\test\LongTermTestAfterPaulLookedAtSettings.csv,,,
+,,,,
+System TIMESTAMP,EKMPOWER,EMMS POWER,EKM Energy Used,EMMS Energy Used
+"1m, 1s",884,3000,0,0
+"2m, 2s",882,3000,0,0
+"3m, 3s",884,3000,0,0
+"4m, 4s",884,3000,1,0
+"5m, 5s",882,3000,1,0
+"6m, 6s",884,3000,1,0
+"7m, 7s",886,3000,1,0
+"8m, 8s",884,3000,1,0
+"9m, 9s",884,3000,1,0
+"10m, 10s",884,3000,1,0
+"11m, 12s",884,3000,2,0
+"12m, 13s",884,3000,2,0
+"13m, 14s",886,3000,2,0
+"14m, 15s",886,3000,2,0
+"15m, 16s",886,3000,2,0
+"16m, 17s",884,3000,2,0
