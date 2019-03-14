@@ -1,0 +1,32 @@
+10.11 - Tuesday, 10/16/18
+ -When program tries to create a file with the name of a file that exists in the directory, append a ' - Copy' to the new filename
+10.12 - Thursday, 10/18/18
+ -Added default values
+ -Removed readcount, program now runs until terminated
+ -Inputs are now read, checked if they are blank, and then set to int
+  *'' is not a valid integer, returns error
+  *new method allows checking for null values without returning error
+ -Removed ekm time collection
+  *Inaccurate, unneccessary, system time works better
+10.13 - Tuesday, 10/23
+ -Turning PONCHAS on in the middle of a test is causing an error with the EMMS meter
+ -Removed timestamp header
+ -Switched EMMS and EKM delay, so EMMS is returning constantly and EKM is only 1 second
+ -Make EMMS read before EKM
+ -Returned default delay to 60 seconds
+10.14 - Tuesday, 10/30 and Tuesday 11/6
+ -Set default values of zero in beginning of first contact to prevent null assignment error
+ -Minor formatting change
+ -Time now outputs in hour, minute, second format
+ -Excel spreadsheet now indicates start time of test
+10.15 - Tuesday, 11/13
+ -Bennett added try/except statements
+ -Time now records days and weeks
+ -Time logged as both w/d/h/m/s and seconds
+10.16 - Thursday, 1/17/19
+ -Fixed data parsing of EMMS meter (previously obtained incorrect value for energy)
+ -Added units to the data table output in Excel
+ -Converted energy to kWh in data table
+10.17 - Thursday 2/28/19
+ -Added try/except statements for ekmResponse[20:24]
+ -Differentiated EMMS total energy used and EMMS energy used since start of program
